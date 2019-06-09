@@ -1,4 +1,4 @@
-# Recommending System for Pictures - 4th place @ Yandex ML Competition
+# Recommending System for Pictures - 4th place @ Yandex ML Competition 2019
 ### Main points:
 
 * Solution should be reasonably simple because the contest is only 24 hours long 
